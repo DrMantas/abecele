@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491929259 source:c:\users\salti_000\desktop\manto\c++\kazkuris\main.cpp
+	<iostream>
+	<fstream>
+
