@@ -1,0 +1,2 @@
+reikia 'abc.get(ats, 1);' pakeisti i 'abc>>kas;' , nes ta get() funkcija niekada neveikia
+Kaip ja naudot????
