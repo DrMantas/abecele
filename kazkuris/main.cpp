@@ -27,7 +27,7 @@ void tikrina(ifstream &abc, char simbolis, bool &raide)
 char kas;
 raide=false;
     abc>>n; abc.ignore(); cout<<n<<endl;
-    for(int i=n; i<n; i++)
+    for(int i=0; i<n; i++)
     { abc.get(kas, 1); cout<<kas<<endl;
         if(simbolis==kas) {raide=true; break;}
     }
