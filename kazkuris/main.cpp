@@ -25,10 +25,10 @@ char aha='4';
 void tikrina(ifstream &abc, char simbolis, bool &raide)
 { int n;
 char kas;
-raide=false;
     abc>>n; abc.ignore(); cout<<n<<endl;
     for(int i=0; i<n; i++)
     { abc.get(kas, 1); cout<<kas<<endl;
         if(simbolis==kas) {raide=true; break;}
+     else raide=false;
     }
 }
