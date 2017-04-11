@@ -1,3 +1,3 @@
-# abecele (reikia patikrinti klaidas)
+# abecele (kaip naudoti get() ?)
 Esme tokia: nustato ar tas char simbolis yra raide, jei taip tau duoda /bool true/, per funkcija.
 Failas is kurio nuskaito abc.txt, manau taip geriau nes jis kaip didelis masyvas, kurio narius tikrina
